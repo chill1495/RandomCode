@@ -8,6 +8,9 @@ p3 is a 8 puzzle solver using depth or breadth first traversal of graphs <br />
 Guessing Game is an ASM file with code for a guessing game on a pic chip <br />
 <br />
 <br />
+OS Final Project is a solution for the Dining Philosophers Problem using Semaphores, threadlocks and Peterson's Solution <br />
+<br />
+<br />
 String List Editor is the same code in java and python to edit a list of strings depending on the size of the string <br />
 <br />
 <br />
